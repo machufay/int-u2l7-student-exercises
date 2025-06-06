@@ -13,13 +13,15 @@
 /* 3. Recheck the ratio now. Afterwards, go to the HTML file.*/
 
 body {
-    background-color: #d93f3f;
+    background-color: #000000;
     color: #eb2626;
+    text-align: center;
 }
 
 
 .food-pic {
     width: 200px;
+    height: 100px;
 }
 
 .title {
